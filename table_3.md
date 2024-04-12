@@ -1,4 +1,4 @@
-We use 3 random seeds for each experiment, and we report the numbers in the format of "mean $\pm$ std". All experiment settings are identical to what we present in the paper. We will use this table in the revised version of the paper.
+We use 3 random seeds for each experiment, and we report the numbers in the format of "mean $\pm$ std" (for standard error we will divide the std by $\sqrt{3}$). All experiment settings are identical to what we present in the paper. We will use this table in the revised version of the paper.
 
 ## Table 3: College Admission: Performance of MatchRank in comparison to heuristics in terms of $k_{\text{min}} / | \mathcal{S}|$
 
