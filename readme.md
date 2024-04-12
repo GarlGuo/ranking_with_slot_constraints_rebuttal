@@ -1,4 +1,4 @@
-This anonymized repository contains some experiment figures and tables for **Ranking with Slot Constraints** KDD submission.
+This anonymized repository contains experiment figures and tables for **Ranking with Slot Constraints**.
 
 We repeat the real-world benchmarks (Table 2 in the paper) and college admission experiments (Table 3 in the paper) for 3 runs and report the results in the format of "mean $\pm$ std" (for standard error we will divide the std by $\sqrt{3}$) in ``table_2.md`` and ``table_3.md``.
 
