@@ -3,9 +3,6 @@ We use 3 random seeds for each experiment, and we report the numbers in the form
 
 ## Table 2: Real-World Benchmarks: Performance of MatchRank in comparison to heuristic baselines in terms of $k_{\text{min}} / | \mathcal{S}|$.
 
-[1.28 7.98 3.51 5.52 1.37 3.55]
-[0.02 1.08 0.39 0.3  0.07 0.12]
-
 
 | | Medical (5) | Medical (10) | Medical (15) | Bibtex (10) | Bibtex (20) | Bibtex (30) | Delicious (10) | Delicious (30) | Delicious (50) | TMC2007 (30) | TMC2007 (50) | TMC2007 (70) | Mediamill (10) | Mediamill (30) | Mediamill (50) | Bookmarks (10) | Bookmarks (30) | Bookmarks (50) |
 | ---- | ------------- | ------------ | ------------ | ----------- | ---------- | ---------- | -------------- | -------------- | -------------- | ------------ | ------------ | ------------ | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- |
